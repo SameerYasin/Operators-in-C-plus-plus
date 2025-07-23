@@ -1,12 +1,12 @@
 # Operators-in-C-plus-plus by Sameer Yasin 
 
-## Aim:
+# Aim:
 To study and implement Operators in C++
 
-## Software Required:
+# Software Required:
 Visual Studio Code
 
-## Theory:
+# Theory:
 An operator is a symbol that tells the compiler to perform specific mathematical or logical manipulations. C++ is rich in built-in operators and provides the following types of operators −
 
 Arithmetic Operators
@@ -47,7 +47,7 @@ Assignment operators are used to assign values to variables. These operators all
 <img width="640" height="564" alt="468996127-48b9c8f2-a754-453a-84dc-4e170281239f" src="https://github.com/user-attachments/assets/cd366f45-be99-4583-8aa2-4e1962045811" />
 
 
-## Implementation:
+# Implementation:
 In this practical, I have used different types of operators in the following cases,
 
 Positive or Negative number check: This uses the comparison operators which help to identify negative and positive numbers.
@@ -56,6 +56,6 @@ Student grade Determination: This uses the mix of Comparison and Logical Operato
 
 Quadrant Determination: This also uses the mix of Comparison and Logical Operators to determine the quadrant according to the coordinates, which are entered by the user.
 
-## Conclusion:
+# Conclusion:
 I examined various Types of Operators in C++ and gained a deeper understanding of the usage of the operators.
 
