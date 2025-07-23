@@ -1,0 +1,40 @@
+// SAMEER YASIN 
+// 24070124092
+// ENTC B1
+
+#include<iostream>
+using namespace std;
+
+int main() {
+    int a;
+    cout << "Please enter a number: " << endl;
+    cin >> a;
+
+    if(a > 0) {
+        cout << "You entered a POSITIVE number." << endl;
+    } else if(a < 0) {
+        cout << "You entered a NEGATIVE number." << endl;
+    } else if(a == 0) {
+        cout << "You entered ZERO." << endl;
+    } else {
+        cout << "Oops! Invalid input." << endl;
+    }
+
+    return 0;
+}
+
+/* Sample Output:
+
+Please enter a number: 
+123
+You entered a POSITIVE number.
+
+Please enter a number: 
+-88
+You entered a NEGATIVE number.
+
+Please enter a number: 
+9999
+You entered a POSITIVE number.
+
+*/
